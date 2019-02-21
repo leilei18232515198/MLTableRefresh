@@ -1,0 +1,8 @@
+platform :ios, '8.0'
+
+target 'TableViewReload' do   
+pod 'AFNetworking'
+pod 'MJRefresh'
+pod 'MBProgressHUD'
+end
+
